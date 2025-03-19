@@ -1,5 +1,5 @@
 data_insert_team = """
-INSERT INTO team (id, name, conferencia_id) VALUES
+INSERT INTO team (id, name, conference_id) VALUES
     (1, 'Boston Celtics', 1),
     (2, 'Brooklyn Nets', 1),
     (3, 'New York Knicks', 1),
